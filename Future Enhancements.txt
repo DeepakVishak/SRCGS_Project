@@ -1,0 +1,13 @@
+Priority Wise
+
+1. What kind of error displaying can be implemented
+2. Sucess and failed cases of sending report cards
+   if sucess=> sucess count
+   else failed email list
+3. Different Email services can be implimented
+4. .csv file can be retrieved from clouds like drive...
+5. Internet status alert
+6. Live Status of processes can be implemented
+7. Grade System implementation
+8. GUI can be modified 
+9. other platform implementation like android mac linux...

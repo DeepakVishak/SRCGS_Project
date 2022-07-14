@@ -1,0 +1,8 @@
+Concept working perfect
+bugs in showing error msg box fixed
+all fields are mandatory label added
+
+
+challenges
+what kind of bug is still absent
+instruction manual absent
