@@ -1,0 +1,4 @@
+Concept working perfect
+
+bugs in showing error msg box
+instruction manual absent
