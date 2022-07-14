@@ -1,0 +1,3 @@
+->Import send_sucess_data.sql on PHPMyAdmin
+->Start Apache and MySQL in XAMPP 
+->Open main.exe to run application
